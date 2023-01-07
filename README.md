@@ -7,15 +7,18 @@ Starting in the top left corner of a grid, and only being able to move to the ri
   
   
 Sample Input
-
+```
 2
 2 2
 3 2
+```
+
 
 // first line representing the number of cases
 
 
 Sample Output
-
+```
 6
 10
+```
